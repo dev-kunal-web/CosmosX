@@ -1,8 +1,8 @@
 # CosmosX
 📱 It is a simple web app that is designed to run on most of devices.
 
-🪐 This app tells us about our Solar System.
-🌎 Can be used as template.
+🪐 This app tells us about our Solar System.<br>
+🌎 Can be used as template.<br>
 
 Some screenshots 👉
 <img width="1600" height="900" alt="Solar System 3D Explorer - Google Chrome 26-05-2026 19_46_07" src="https://github.com/user-attachments/assets/6c621287-65f2-4171-b573-04af27045e46" />
